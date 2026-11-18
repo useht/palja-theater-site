@@ -1,0 +1,642 @@
+[
+ {
+  "id": "guide",
+  "kind": "guide",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:48:46.200Z",
+  "prompt": "friendly theater usher in a dark red jacket with brass buttons and a round cap, holding a rope that pulls the curtain, flat gouache theater poster illustration, one character standing centered on a small wooden stage under a single warm spotlight, cream paper texture background, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, dark red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 999,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "guide-480.webp",
+   "guide-960.webp"
+  ]
+ },
+ {
+  "id": "gan-byeong",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:14.721Z",
+  "prompt": "radiant actor in vermilion and gold robe with a sun-disc headpiece, arms open wide, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1002,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-byeong-480.webp",
+   "gan-byeong-960.webp"
+  ]
+ },
+ {
+  "id": "gan-gap",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:19.272Z",
+  "prompt": "tall young actor, deep green long coat with pine-needle embroidery, holding a straight wooden staff, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1000,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-gap-480.webp",
+   "gan-gap-960.webp"
+  ]
+ },
+ {
+  "id": "gan-eul",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:23.918Z",
+  "prompt": "slender actor in light green layered robe with vine patterns wrapping the sleeves, small flowers in hair, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1001,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-eul-480.webp",
+   "gan-eul-960.webp"
+  ]
+ },
+ {
+  "id": "gan-jeong",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:26.978Z",
+  "prompt": "gentle actor in deep orange robe holding a paper lantern, warm glow on the face, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1003,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-jeong-480.webp",
+   "gan-jeong-960.webp"
+  ]
+ },
+ {
+  "id": "gan-mu",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:51:59.341Z",
+  "prompt": "broad-shouldered actor in ochre robe with mountain-ridge embroidery, calm stance, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1004,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-mu-480.webp",
+   "gan-mu-960.webp"
+  ]
+ },
+ {
+  "id": "gan-gi",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:33.121Z",
+  "prompt": "kind actor in earthy yellow-brown apron robe holding a small seedling pot, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1005,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-gi-480.webp",
+   "gan-gi-960.webp"
+  ]
+ },
+ {
+  "id": "gan-gyeong",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:36.728Z",
+  "prompt": "strong actor in silver-grey armor-like robe, holding a plain iron sword pointed down, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1006,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-gyeong-480.webp",
+   "gan-gyeong-960.webp"
+  ]
+ },
+ {
+  "id": "gan-sin",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:39.620Z",
+  "prompt": "elegant actor in pale silver robe with a jeweled silver hairpin, holding a small mirror, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1007,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-sin-480.webp",
+   "gan-sin-960.webp"
+  ]
+ },
+ {
+  "id": "gan-im",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:42.234Z",
+  "prompt": "flowing actor in deep navy robe with wave patterns, long sleeves like water, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1008,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-im-480.webp",
+   "gan-im-960.webp"
+  ]
+ },
+ {
+  "id": "gan-gye",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:52:02.494Z",
+  "prompt": "quiet actor in misty blue translucent robe, holding a small oiled-paper umbrella, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1009,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "gan-gye-480.webp",
+   "gan-gye-960.webp"
+  ]
+ },
+ {
+  "id": "ji-ja",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:48.856Z",
+  "prompt": "nimble actor wearing a mouse-ear hood, navy robe, holding a tiny lantern and a pouch of grain, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1010,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-ja-480.webp",
+   "ji-ja-960.webp"
+  ]
+ },
+ {
+  "id": "ji-chuk",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:52.351Z",
+  "prompt": "sturdy actor wearing an ox-horn headdress, earth-brown work robe, plough handle in hand, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1011,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-chuk-480.webp",
+   "ji-chuk-960.webp"
+  ]
+ },
+ {
+  "id": "ji-in",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:56.135Z",
+  "prompt": "bold actor wearing a tiger-striped hood with ears, green and amber robe, mid-stride pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1012,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-in-480.webp",
+   "ji-in-960.webp"
+  ]
+ },
+ {
+  "id": "ji-myo",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:49:59.756Z",
+  "prompt": "lively actor wearing a rabbit-ear hood, soft green robe with blossom patterns, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1013,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-myo-480.webp",
+   "ji-myo-960.webp"
+  ]
+ },
+ {
+  "id": "ji-jin",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:02.884Z",
+  "prompt": "majestic actor wearing a dragon-horn crown, ochre robe with cloud and scale patterns, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1014,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-jin-480.webp",
+   "ji-jin-960.webp"
+  ]
+ },
+ {
+  "id": "ji-sa",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:07.604Z",
+  "prompt": "graceful actor wearing a coiled-serpent shawl, red-orange robe, half-closed knowing eyes, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1015,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-sa-480.webp",
+   "ji-sa-960.webp"
+  ]
+ },
+ {
+  "id": "ji-o",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:11.534Z",
+  "prompt": "energetic actor wearing a horse-mane headdress, vermilion riding robe, galloping pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1016,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-o-480.webp",
+   "ji-o-960.webp"
+  ]
+ },
+ {
+  "id": "ji-mi",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:15.797Z",
+  "prompt": "soft-spoken actor wearing a curled-horn wool hood, warm beige robe, holding a bundle of herbs, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1017,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-mi-480.webp",
+   "ji-mi-960.webp"
+  ]
+ },
+ {
+  "id": "ji-sin",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:21.305Z",
+  "prompt": "playful actor wearing a monkey-face mask pushed up, silver-grey acrobat robe, juggling small balls, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1018,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-sin-480.webp",
+   "ji-sin-960.webp"
+  ]
+ },
+ {
+  "id": "ji-yu",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:25.652Z",
+  "prompt": "neat actor wearing a rooster-crest headpiece, white and silver robe, holding a small brass bell, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1019,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-yu-480.webp",
+   "ji-yu-960.webp"
+  ]
+ },
+ {
+  "id": "ji-sul",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:29.822Z",
+  "prompt": "loyal actor wearing a dog-ear hood, earthy brown guard robe, holding a wooden gate key, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1020,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-sul-480.webp",
+   "ji-sul-960.webp"
+  ]
+ },
+ {
+  "id": "ji-hae",
+  "kind": "actor",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:33.145Z",
+  "prompt": "cheerful round actor wearing a pig-snout hood, deep blue robe, carrying a basket of chestnuts, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 1021,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "ji-hae-480.webp",
+   "ji-hae-960.webp"
+  ]
+ },
+ {
+  "id": "poster-love",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:53:25.430Z",
+  "prompt": "flat gouache theater poster illustration, two young stage actors in Korean traditional-inspired costumes sitting face to face at a small table on a wooden stage, each holding a script, a single warm spotlight over them, half-open deep red curtains, cream paper texture, bold flat color blocks, gentle romantic mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2001,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "poster-love-480.webp",
+   "poster-love-960.webp"
+  ]
+ },
+ {
+  "id": "stage",
+  "kind": "background",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T07:50:43.480Z",
+  "prompt": "flat gouache illustration of an empty small wooden theater stage seen from the audience, deep red curtains drawn to both sides, warm spotlight circle on the floor, cream paper texture, bold flat color blocks, soft grain, no people, no text, no letters, no signature, no watermark, no logo",
+  "seed": 3001,
+  "steps": 4,
+  "neuronsBefore": 172.8000030517578,
+  "neuronsAfter": 172.8000030517578,
+  "files": [
+   "stage-480.webp",
+   "stage-960.webp"
+  ]
+ },
+ {
+  "id": "poster-reunion",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:34:38.611Z",
+  "prompt": "flat gouache theater poster illustration, one stage actor in a Korean traditional-inspired costume bowing again as a single red rose is thrown from the audience, the curtain half reopened behind on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, bittersweet encore mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2002,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-reunion-480.webp",
+   "poster-reunion-960.webp"
+  ]
+ },
+ {
+  "id": "poster-pair",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:34:41.906Z",
+  "prompt": "flat gouache theater poster illustration, two stage actors in Korean traditional-inspired costumes performing a mirrored duet dance, two spotlights merging into one between them on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, harmonious duet mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2003,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-pair-480.webp",
+   "poster-pair-960.webp"
+  ]
+ },
+ {
+  "id": "poster-wedding",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:34:45.334Z",
+  "prompt": "flat gouache theater poster illustration, two stage actors in Korean traditional wedding-inspired stage costumes rehearsing a wedding scene beside a small low table with a pair of carved wooden wild geese on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, warm festive rehearsal mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2004,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-wedding-480.webp",
+   "poster-wedding-960.webp"
+  ]
+ },
+ {
+  "id": "poster-wealth",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:36:58.303Z",
+  "prompt": "flat gouache theater poster illustration, a small troupe of three stage actors in Korean traditional-inspired costumes gathered around a low table with a blank parchment map marked only with a red cross and a dotted line and a closed wooden chest on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, playful heist planning mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2005,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-wealth-480.webp",
+   "poster-wealth-960.webp"
+  ]
+ },
+ {
+  "id": "poster-2027",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:37:01.929Z",
+  "prompt": "flat gouache theater poster illustration, a festive stage with a stylized red sheep mascot prop and two actors in Korean traditional-inspired costumes raising paper lanterns for a new season opening on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, red and gold accents, celebratory mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2006,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-2027-480.webp",
+   "poster-2027-960.webp"
+  ]
+ },
+ {
+  "id": "poster-child",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:36:30.240Z",
+  "prompt": "flat gouache theater poster illustration, a small child actor in a simple Korean traditional-inspired costume taking a first bow at center stage while an adult actor watches proudly from the wings on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, tender proud mood, clean empty corners, no seal stamp, no calligraphy, no artist signature, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2007,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-child-480.webp",
+   "poster-child-960.webp"
+  ]
+ },
+ {
+  "id": "poster-life",
+  "kind": "poster",
+  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "terms": [
+   "https://bfl.ai/legal/terms-of-service",
+   "https://www.cloudflare.com/policies/terms/",
+   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+  ],
+  "createdAt": "2026-11-18T08:37:06.011Z",
+  "prompt": "flat gouache theater poster illustration, a grand stage with a long scroll unrolled across the floor showing a winding path from childhood to old age, four large stage actors in Korean traditional-inspired costumes standing along the path in the foreground, a child, a young adult, a middle-aged adult and a white-haired elder on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, epic storytelling mood, no text, no letters, no words, no signature, no watermark, no logo",
+  "seed": 2008,
+  "steps": 4,
+  "neuronsBefore": 5356.800094604492,
+  "neuronsAfter": 5356.800094604492,
+  "files": [
+   "poster-life-480.webp",
+   "poster-life-960.webp"
+  ]
+ }
+]
