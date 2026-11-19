@@ -48,12 +48,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:49:19.272Z",
-  "prompt": "tall young actor, deep green long coat with pine-needle embroidery, holding a straight wooden staff, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:35:04.095Z",
+  "prompt": "tall young man, deep green jeogori with pine-needle embroidery, pale baji, wide-brimmed black horsehair gat hat, holding a straight pine walking staff, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1000,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "gan-gap-480.webp",
    "gan-gap-960.webp"
@@ -128,12 +128,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:49:33.121Z",
-  "prompt": "kind actor in earthy yellow-brown apron robe holding a small seedling pot, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:35:23.833Z",
+  "prompt": "kind farmer man, earthy yellow jeogori, brown baji, a small cloth bundle tied at the waist, holding a small seedling pot, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, earthy yellow-brown as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1005,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "gan-gi-480.webp",
    "gan-gi-960.webp"
@@ -148,12 +148,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:49:36.728Z",
-  "prompt": "strong actor in silver-grey armor-like robe, holding a plain iron sword pointed down, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:35:27.137Z",
+  "prompt": "strong Joseon soldier, grey jeogori under a sleeveless dark navy baeja vest, grey baji, black jeollip hat with a red tassel, holding a sheathed Korean sword pointed down, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1006,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "gan-gyeong-480.webp",
    "gan-gyeong-960.webp"
@@ -268,12 +268,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:49:56.135Z",
-  "prompt": "bold actor wearing a tiger-striped hood with ears, green and amber robe, mid-stride pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:35:46.149Z",
+  "prompt": "bold youth, green jeogori under a short amber baeja vest, ochre baji, a tiger-striped headband with small tiger ears, mid-stride pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, green and amber as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1012,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "ji-in-480.webp",
    "ji-in-960.webp"
@@ -388,12 +388,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T12:40:09.511Z",
-  "prompt": "playful Korean namsadang folk acrobat wearing a monkey-face mask pushed up on the head, white jeogori and baji with a red, blue and yellow sash, juggling small balls, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, authentic Korean Joseon-dynasty hanbok costume with a short jeogori jacket tied by a long goreum ribbon bow, white with colorful sash as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:36:06.108Z",
+  "prompt": "playful young namsadang folk acrobat with a friendly human face, white jeogori and white baji with a red, blue and yellow sash, a small monkey mask pushed up on top of the head like a hat, juggling small balls, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, white with a colorful sash as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1018,
   "steps": 4,
-  "neuronsBefore": 8294.400146484375,
-  "neuronsAfter": 8294.400146484375,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "ji-sin-480.webp",
    "ji-sin-960.webp"
@@ -408,12 +408,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:50:25.652Z",
-  "prompt": "neat actor wearing a rooster-crest headpiece, white and silver robe, holding a small brass bell, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:36:09.912Z",
+  "prompt": "neat man, white jeogori with silver trim, light grey baji, a small red rooster-comb headpiece, holding a small brass bell, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, white and silver as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1019,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "ji-yu-480.webp",
    "ji-yu-960.webp"
@@ -428,12 +428,12 @@
    "https://www.cloudflare.com/policies/terms/",
    "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
   ],
-  "createdAt": "2026-11-18T07:50:29.822Z",
-  "prompt": "loyal actor wearing a dog-ear hood, earthy brown guard robe, holding a wooden gate key, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
+  "createdAt": "2026-11-19T02:36:13.292Z",
+  "prompt": "loyal gatekeeper man, brown jeogori under a short black baeja vest, brown baji, a headband with floppy dog ears, holding a wooden gate key, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, earthy brown as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
   "seed": 1020,
   "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "neuronsBefore": 0,
+  "neuronsAfter": 0,
   "files": [
    "ji-sul-480.webp",
    "ji-sul-960.webp"
