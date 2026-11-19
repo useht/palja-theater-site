@@ -2,641 +2,577 @@
  {
   "id": "guide",
   "kind": "guide",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:48:46.200Z",
-  "prompt": "friendly theater usher in a dark red jacket with brass buttons and a round cap, holding a rope that pulls the curtain, flat gouache theater poster illustration, one character standing centered on a small wooden stage under a single warm spotlight, cream paper texture background, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, dark red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 999,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:22:28.5542872Z",
+  "prompt": "Use case illustration-story. Create a single square finished illustration for Korean theater website Palja Theater, in the SAME warm cream paper, gently modeled friendly human face, matte gouache poster style with subtle grain as a series of hanbok actors on small circular wooden platforms. This is a THEATER USHER, exception to hanbok costuming: friendly HUMAN Korean young man wearing dark burgundy red usher jacket with simple brass buttons, round burgundy cap, cream trousers and dark closed shoes. He holds a rope that pulls a theater curtain. Full body front view standing on small round wood platform, circular soft cream spotlight behind. Only a small part of deep red curtain visible at side near rope, generous cream negative space. No Japanese or Chinese costume elements or props. NO text, letters, numerals, words, logos, signatures, stamps, seals or watermark. Complete head, feet and platform in frame with breathing room.",
+  "style": "illustration",
   "files": [
    "guide-480.webp",
    "guide-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/guide.png"
  },
  {
   "id": "gan-byeong",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:49:14.721Z",
-  "prompt": "radiant actor in vermilion and gold robe with a sun-disc headpiece, arms open wide, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1002,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:01:42.8644863Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. More flat poster-like gouache, simplified shapes, not a photograph. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Radiant young human man, vermilion waist-length jeogori with small golden sun embroidery, narrow gold goreum, yellow loose baji, no hat, arms open in a welcoming stance.",
+  "style": "illustration",
   "files": [
    "gan-byeong-480.webp",
    "gan-byeong-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-byeong.png"
  },
  {
   "id": "gan-gap",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:35:04.095Z",
-  "prompt": "tall young man, deep green jeogori with pine-needle embroidery, pale baji, wide-brimmed black horsehair gat hat, holding a straight pine walking staff, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, deep green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1000,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:19:59.6611185Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified matte shapes and soft paper grain. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head, complete feet and platform within frame with generous margins. Tall young HUMAN man, deep green WAIST LENGTH jeogori with pine needle embroidery, narrow green goreum, pale cream voluminous baji with ankle ties, wide brimmed black horsehair gat. Holding straight pine walking staff. Friendly human face, no long overcoat.",
+  "style": "illustration",
   "files": [
    "gan-gap-480.webp",
    "gan-gap-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-gap.png"
  },
  {
   "id": "gan-eul",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T12:39:58.465Z",
-  "prompt": "slender young woman in a light green jeogori with vine embroidery and a long goreum ribbon, full light green chima skirt, long braided hair with a small flower binyeo hairpin, white beoseon socks and flower-patterned Korean kkotsin shoes, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, authentic Korean Joseon-dynasty hanbok costume with a short jeogori jacket tied by a long goreum ribbon bow, light green as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1001,
-  "steps": 4,
-  "neuronsBefore": 8294.400146484375,
-  "neuronsAfter": 8294.400146484375,
+  "createdAt": "2026-11-19T07:00:52.7369672Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Actor portrait gan-eul: one slender young human woman wearing light green cropped jeogori with small vine embroidery, pink narrow goreum, cream pale green full chima; long single braid tied with red daenggi, tiny flowers in hair. Standing full body facing front on a small round wooden platform; soft circular cream spotlight behind; generous empty cream margins, no curtains, no furniture. Entire shoes and platform visible. Produce one image only.",
+  "style": "illustration",
   "files": [
    "gan-eul-480.webp",
    "gan-eul-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-eul.png"
  },
  {
   "id": "gan-jeong",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:49:26.978Z",
-  "prompt": "gentle actor in deep orange robe holding a paper lantern, warm glow on the face, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1003,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:02:10.4593452Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. More flat poster-like gouache, simplified shapes, not a photograph. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Gentle young human woman, deep orange above-bust cropped jeogori, red goreum, cream orange high chima. Holding a tall cylindrical KOREAN cheongsachorong lantern with BLUE silk on top and RED silk below, on wooden carrying pole, warm face glow. Low chignon.",
+  "style": "illustration",
   "files": [
    "gan-jeong-480.webp",
    "gan-jeong-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-jeong.png"
  },
  {
   "id": "gan-mu",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:51:59.341Z",
-  "prompt": "broad-shouldered actor in ochre robe with mountain-ridge embroidery, calm stance, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1004,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:02:31.9951480Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. More flat poster-like gouache, simplified shapes, not a photograph. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Broad-shouldered calm human man, ochre waist-length jeogori with subtle Korean mountain ridge embroidery, brown loose baji, wide-brimmed black horsehair gat. No belt, no weapons.",
+  "style": "illustration",
   "files": [
    "gan-mu-480.webp",
    "gan-mu-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-mu.png"
  },
  {
   "id": "gan-gi",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:35:23.833Z",
-  "prompt": "kind farmer man, earthy yellow jeogori, brown baji, a small cloth bundle tied at the waist, holding a small seedling pot, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, earthy yellow-brown as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1005,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:20:18.9923101Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified matte shapes and soft paper grain. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head, complete feet and platform within frame with generous margins. Kind HUMAN farmer man, earthy yellow WAIST LENGTH jeogori with brown narrow chest goreum, brown voluminous baji with ankle ties, holding a small seedling pot in one hand and small plain cloth bundle in other. No apron, no waist belt, no long coat.",
+  "style": "illustration",
   "files": [
    "gan-gi-480.webp",
    "gan-gi-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-gi.png"
  },
  {
   "id": "gan-gyeong",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:35:27.137Z",
-  "prompt": "strong Joseon soldier, grey jeogori under a sleeveless dark navy baeja vest, grey baji, black jeollip hat with a red tassel, holding a sheathed Korean sword pointed down, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1006,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:09:33.1293755Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, entire feet and platform within frame with generous margins. Strong HUMAN Joseon soldier, grey waist-length jeogori with dark grey narrow goreum clearly visible, sleeveless short open dark navy baeja vest, grey loose baji, black jeollip hat with small red tassel, holding SHORT Korean gakgung recurved horn bow, quiver of arrows on back. Bow and arrows only, no sword or sword sheath, no armor, no long robe.",
+  "style": "illustration",
   "files": [
    "gan-gyeong-480.webp",
    "gan-gyeong-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-gyeong.png"
  },
  {
   "id": "gan-sin",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:49:39.620Z",
-  "prompt": "elegant actor in pale silver robe with a jeweled silver hairpin, holding a small mirror, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, silver grey as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1007,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:03:14.0990916Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Elegant human woman, pale lavender-grey ABOVE BUST cropped jeogori, purple narrow goreum, light silver grey chima. Jade norigae tassel at skirt, silver binyeo hairpin in low chignon, holding small round bronze mirror.",
+  "style": "illustration",
   "files": [
    "gan-sin-480.webp",
    "gan-sin-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-sin.png"
  },
  {
   "id": "gan-im",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:49:42.234Z",
-  "prompt": "flowing actor in deep navy robe with wave patterns, long sleeves like water, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1008,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:03:42.0371056Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Flowing young human man, deep navy waist-length jeogori with small wave embroidery and pale blue goreum, light blue voluminous baji, wide brimmed black horsehair gat; arms gently spread like flowing water, fitted narrow sleeves.",
+  "style": "illustration",
   "files": [
    "gan-im-480.webp",
    "gan-im-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-im.png"
  },
  {
   "id": "gan-gye",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:52:02.494Z",
-  "prompt": "quiet actor in misty blue translucent robe, holding a small oiled-paper umbrella, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1009,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:04:38.8709039Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Quiet young human woman, misty blue ABOVE BUST cropped jeogori with white goreum, pale misty blue full high chima, long braid, holding plain Korean oiled-paper umbrella with bamboo ribs. Soft rain mood, cream backdrop.",
+  "style": "illustration",
   "files": [
    "gan-gye-480.webp",
    "gan-gye-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/gan-gye.png"
  },
  {
   "id": "ji-ja",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T12:40:01.732Z",
-  "prompt": "nimble youth wearing a hood with small mouse ears, navy jeogori and baji trousers with leg wraps, holding a tiny lantern and a small grain pouch, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, authentic Korean Joseon-dynasty hanbok costume with a short jeogori jacket tied by a long goreum ribbon bow, navy as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1010,
-  "steps": 4,
-  "neuronsBefore": 8294.400146484375,
-  "neuronsAfter": 8294.400146484375,
+  "createdAt": "2026-11-19T07:04:07.7464874Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Nimble young HUMAN man, navy waist-length jeogori with light grey goreum, grey voluminous baji, small cloth headband with two theatrical round mouse-ear ornaments. Human ears and human nose, friendly NORMAL HUMAN face, holding a small beige grain pouch.",
+  "style": "illustration",
   "files": [
    "ji-ja-480.webp",
    "ji-ja-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-ja.png"
  },
  {
   "id": "ji-chuk",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:49:52.351Z",
-  "prompt": "sturdy actor wearing an ox-horn headdress, earth-brown work robe, plough handle in hand, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1011,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:05:25.6977773Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Sturdy HUMAN farmer man, earth brown waist-length jeogori and pale cream loose baji, dark brown goreum. Small headband with two simple ox-horn stage ornaments, normal HUMAN face. Holding a wooden Korean plough handle, visibly human hands.",
+  "style": "illustration",
   "files": [
    "ji-chuk-480.webp",
    "ji-chuk-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-chuk.png"
  },
  {
   "id": "ji-in",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:35:46.149Z",
-  "prompt": "bold youth, green jeogori under a short amber baeja vest, ochre baji, a tiger-striped headband with small tiger ears, mid-stride pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, green and amber as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1012,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:21:09.6008286Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified matte shapes and soft paper grain. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, complete feet and platform within frame with generous margins. Bold HUMAN young man, green WAIST LENGTH jeogori with narrow amber goreum under SHORT OPEN amber sleeveless baeja vest, ochre voluminous baji tied at ankles, small tiger-striped headband with little tiger-ear theatrical ornaments. NORMAL HUMAN face, no tiger nose, no animal muzzle. Confident mid-stride pose.",
+  "style": "illustration",
   "files": [
    "ji-in-480.webp",
    "ji-in-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-in.png"
  },
  {
   "id": "ji-myo",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T12:40:05.152Z",
-  "prompt": "lively girl wearing a hood with long rabbit ears, soft green jeogori with a pink goreum ribbon, full pink chima skirt with blossom patterns, flower-patterned kkotsin shoes, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, authentic Korean Joseon-dynasty hanbok costume with a short jeogori jacket tied by a long goreum ribbon bow, soft green and pink as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1013,
-  "steps": 4,
-  "neuronsBefore": 8294.400146484375,
-  "neuronsAfter": 8294.400146484375,
+  "createdAt": "2026-11-19T07:05:52.4275555Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Lively young HUMAN woman, soft green ABOVE BUST cropped jeogori, pink goreum, cream pink high full chima, subtle blossom motifs. Long single braid, a small theatrical headband with long white rabbit ear ornaments, normal HUMAN face, no muzzle.",
+  "style": "illustration",
   "files": [
    "ji-myo-480.webp",
    "ji-myo-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-myo.png"
  },
  {
   "id": "ji-jin",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:02.884Z",
-  "prompt": "majestic actor wearing a dragon-horn crown, ochre robe with cloud and scale patterns, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1014,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:06:34.8703302Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep top of head and entire feet within image with breathing room. Majestic HUMAN man, ochre waist-length jeogori with subtle cloud and dragon-scale embroidery, narrow brown goreum, loose brown baji; simple headband with two SMALL golden dragon horn stage ornaments, NOT a crown, normal human face.",
+  "style": "illustration",
   "files": [
    "ji-jin-480.webp",
    "ji-jin-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-jin.png"
  },
  {
   "id": "ji-sa",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:07.604Z",
-  "prompt": "graceful actor wearing a coiled-serpent shawl, red-orange robe, half-closed knowing eyes, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1015,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:07:01.5757454Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep top of head and entire feet within image with breathing room. Graceful HUMAN woman, red-orange ABOVE BUST cropped jeogori, dark red goreum, cream peach high full chima; thin narrow serpent-patterned silk shawl lightly over shoulders without obscuring white collar or chest knot; knowing gentle smile, low chignon.",
+  "style": "illustration",
   "files": [
    "ji-sa-480.webp",
    "ji-sa-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-sa.png"
  },
  {
   "id": "ji-o",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:11.534Z",
-  "prompt": "energetic actor wearing a horse-mane headdress, vermilion riding robe, galloping pose, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, vermilion red as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1016,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:07:47.9980849Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, entire feet and platform within frame with generous margins. Energetic young HUMAN man, vermilion waist-length jeogori, cream goreum, white voluminous baji with daenim ankle ties and white haengjeon leg wraps. Headband with a small horse-mane tuft, normal human face. Dynamic playful galloping step, both legs anatomically normal.",
+  "style": "illustration",
   "files": [
    "ji-o-480.webp",
    "ji-o-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-o.png"
  },
  {
   "id": "ji-mi",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:15.797Z",
-  "prompt": "soft-spoken actor wearing a curled-horn wool hood, warm beige robe, holding a bundle of herbs, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, warm ochre as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1017,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:08:16.8341264Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, entire feet and platform within frame with generous margins. Soft-spoken HUMAN man, warm beige waist-length jeogori, brown narrow goreum, light brown voluminous baji, small headband with two curled sheep-horn stage ornaments. Holding a bundle of green herbs; normal human face and ears, gentle smile.",
+  "style": "illustration",
   "files": [
    "ji-mi-480.webp",
    "ji-mi-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-mi.png"
  },
  {
   "id": "ji-sin",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:36:06.108Z",
-  "prompt": "playful young namsadang folk acrobat with a friendly human face, white jeogori and white baji with a red, blue and yellow sash, a small monkey mask pushed up on top of the head like a hat, juggling small balls, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, white with a colorful sash as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1018,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:21:35.8213694Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified matte shapes and soft paper grain. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, complete feet and platform within frame with generous margins. Playful HUMAN namsadang folk acrobat, cream WAIST LENGTH jeogori with WHITE collar and narrow red upper-right chest goreum, light grey voluminous baji tied at ankles, red blue yellow narrow decorative ribbons HANGING from side, NO broad waistband and NO martial arts belt. A SMALL wooden monkey mask PUSHED UP ON TOP OF HIS HEAD like a stage prop, entire NORMAL HUMAN face exposed below it. Juggling small red blue yellow balls. Human hands, human nose and human mouth, no animal anatomy.",
+  "style": "illustration",
   "files": [
    "ji-sin-480.webp",
    "ji-sin-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-sin.png"
  },
  {
   "id": "ji-yu",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:36:09.912Z",
-  "prompt": "neat man, white jeogori with silver trim, light grey baji, a small red rooster-comb headpiece, holding a small brass bell, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, white and silver as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1019,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:10:19.8768440Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Neat HUMAN man, pale silver grey waist-length jeogori, red narrow goreum, deep navy loose baji with red ankle ties. Small red rooster-comb shaped cloth stage ornament on a simple headband, holding a small brass handbell. NORMAL HUMAN face, no bird beak or feather hair crest. One actor full body front view on small round wooden platform, circular spotlight on plain cream background, no curtains, no furniture. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "ji-yu-480.webp",
    "ji-yu-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-yu.png"
  },
  {
   "id": "ji-sul",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-19T02:36:13.292Z",
-  "prompt": "loyal gatekeeper man, brown jeogori under a short black baeja vest, brown baji, a headband with floppy dog ears, holding a wooden gate key, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly human face, wearing a two-piece Korean Joseon-dynasty hanbok: a short cropped jeogori jacket that ends at the waist with a white dongjeong collar strip and a long goreum ribbon tied in a bow on the chest, loose baji trousers gathered at the ankles with daenim ribbons, white beoseon socks and boat-shaped Korean gomusin shoes, earthy brown as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1020,
-  "steps": 4,
-  "neuronsBefore": 0,
-  "neuronsAfter": 0,
+  "createdAt": "2026-11-19T07:22:55.3117552Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified matte shapes and soft paper grain. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Loyal HUMAN gatekeeper man, brown WAIST LENGTH jeogori with cream narrow chest goreum under SHORT OPEN black sleeveless baeja vest, brown voluminous baji with ankle ties. A small headband with floppy dog-ear theatrical ornaments, NORMAL HUMAN face, holding a wooden traditional Korean gate key. No hood, no robe, no dog muzzle. Keep head ornaments, full feet and platform within frame with generous margins.",
+  "style": "illustration",
   "files": [
    "ji-sul-480.webp",
    "ji-sul-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-sul.png"
  },
  {
   "id": "ji-hae",
   "kind": "actor",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:33.145Z",
-  "prompt": "cheerful round actor wearing a pig-snout hood, deep blue robe, carrying a basket of chestnuts, flat gouache theater poster illustration, one character standing centered on a small round wooden platform, plain warm cream paper background with a soft circular spotlight glow behind the character, no curtains, no furniture, bold flat color blocks, soft grain, full body, front view, friendly face, Korean traditional-inspired stage costume, deep navy blue as the main costume color, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 1021,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:09:03.6067667Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat poster gouache, simplified shapes. One actor full body front view on small round wooden platform, soft circular spotlight on plain warm cream background. No curtains or furniture. Keep head ornaments, entire feet and platform within frame with generous margins. Cheerful round HUMAN woman with normal human nose and HUMAN face, deep blue ABOVE BUST cropped jeogori, pale blue goreum, cream pale blue high full chima, tiny pig-ear ornaments on a headband, holding woven basket full of brown chestnuts. Absolutely no pig snout or animal facial anatomy.",
+  "style": "illustration",
   "files": [
    "ji-hae-480.webp",
    "ji-hae-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/ji-hae.png"
  },
  {
   "id": "poster-love",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:53:25.430Z",
-  "prompt": "flat gouache theater poster illustration, two young stage actors in Korean traditional-inspired costumes sitting face to face at a small table on a wooden stage, each holding a script, a single warm spotlight over them, half-open deep red curtains, cream paper texture, bold flat color blocks, gentle romantic mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2001,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:10:52.8736780Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Romantic audition scene: a young HUMAN man in vermilion waist-length jeogori and navy baji, and a young HUMAN woman in cream ABOVE BUST cropped jeogori, pink goreum and high pink chima, sitting on floor cushions across a SMALL LOW Korean soban table. Both holding small folded theatre scripts with COMPLETELY BLANK pages, look warmly at each other. Three-quarter frontal view so collars and chest goreum of both people visible. Plain wooden Korean stage, dark simple wooden backdrop, warm cream spotlight, half-open deep dark red theater curtains. Friendly intimate mood. NO high table or chairs. No writing on scripts. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-love-480.webp",
    "poster-love-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-love.png"
  },
  {
   "id": "stage",
   "kind": "background",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T07:50:43.480Z",
-  "prompt": "flat gouache illustration of an empty small wooden theater stage seen from the audience, deep red curtains drawn to both sides, warm spotlight circle on the floor, cream paper texture, bold flat color blocks, soft grain, no people, no text, no letters, no signature, no watermark, no logo",
-  "seed": 3001,
-  "steps": 4,
-  "neuronsBefore": 172.8000030517578,
-  "neuronsAfter": 172.8000030517578,
+  "createdAt": "2026-11-19T07:23:37.8968434Z",
+  "prompt": "Use case illustration-story. Create a single square finished background illustration for Korean theater website Palja Theater. Match a warm cream paper, matte flat gouache theater poster series with subtle soft grain, muted burgundy, warm honey wood, cream lighting. An EMPTY wooden theater stage seen straight from audience: half-open deep burgundy red velvet curtains frame both sides and upper edge, plain dark wooden backdrop, warm cream central spotlight illuminates an empty honey-colored wooden stage floor. Elegant theatrical composition with broad empty center, simple quiet shapes, paper texture visible. No people, no animals, no human silhouettes, no faces, no furniture, no instruments, no signs, no lanterns or Chinese/Japanese decorative architecture. Entire image is an illustration, not photo. No text, letters, numerals, words, signatures, stamps, seals, logos, watermarks. No title on poster.",
+  "style": "illustration",
   "files": [
    "stage-480.webp",
    "stage-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/stage.png"
  },
  {
   "id": "poster-reunion",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:34:38.611Z",
-  "prompt": "flat gouache theater poster illustration, one stage actor in a Korean traditional-inspired costume bowing again as a single red rose is thrown from the audience, the curtain half reopened behind on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, bittersweet encore mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2002,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:12:13.0946784Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Encore scene: one HUMAN young male actor in navy WAIST LENGTH jeogori, red goreum and pale blue baji with ankle ties, at center wooden Korean theater stage, bowing modestly toward viewer while his HUMAN face and white collar/chest knot remain visible, hands together low, a SINGLE rose tossed upward from audience visible near his feet. Half-reopened deep red curtains, dark plain wood backdrop, single warm cream spotlight, poetic hopeful encore mood. Full body including socks and closed gomusin, no audience faces. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-reunion-480.webp",
    "poster-reunion-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-reunion.png"
  },
  {
   "id": "poster-pair",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:34:41.906Z",
-  "prompt": "flat gouache theater poster illustration, two stage actors in Korean traditional-inspired costumes performing a mirrored duet dance, two spotlights merging into one between them on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, harmonious duet mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2003,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:11:47.6799460Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Harmonious mirrored duet: TWO HUMAN young women wearing ABOVE BUST cropped jeogori with clearly visible white collars and narrow chest goreum, one sage green with cream full high chima, other cream jacket with dusty rose full high chima; mirrored dance poses holding open plain cream Korean folding fans without writing. Narrow sleeves remain fitted, no draping sleeves. Faces visible in three-quarter frontal view. Two cream spotlight beams merging center, plain wooden Korean theater stage and dark plain wood backdrop with half-open deep red curtains. Full body including white socks and flower shoes. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-pair-480.webp",
    "poster-pair-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-pair.png"
  },
  {
   "id": "poster-wedding",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:34:45.334Z",
-  "prompt": "flat gouache theater poster illustration, two stage actors in Korean traditional wedding-inspired stage costumes rehearsing a wedding scene beside a small low table with a pair of carved wooden wild geese on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, warm festive rehearsal mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2004,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:13:20.3999384Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Traditional Korean wedding REHEARSAL scene, two HUMAN actors standing facing inward but three-quarter frontal so both white collars and chest goreum are visible. Groom wears NAVY WAIST-LENGTH jeogori and light blue LOOSE BAJI with ankle ties, black Korean samo official hat. Bride wears GREEN ABOVE-BUST short jeogori with FITTED rainbow saekdong sleeves and red narrow chest goreum, red HIGH FULL CHIMA, small BLACK JOKDURI crown. They wear rehearsal hanbok, NOT long ceremonial robes: short jacket plus separate baji/chima must be obvious. Between them a small LOW Korean soban table bearing a PAIR of carved wooden geese. Plain wooden Korean stage, plain dark wood backdrop, half-open deep red curtains, single warm cream spotlight, joyful mood, full body shoes visible. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-wedding-480.webp",
    "poster-wedding-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-wedding.png"
  },
  {
   "id": "poster-wealth",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:36:58.303Z",
-  "prompt": "flat gouache theater poster illustration, a small troupe of three stage actors in Korean traditional-inspired costumes gathered around a low table with a blank parchment map marked only with a red cross and a dotted line and a closed wooden chest on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, playful heist planning mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2005,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:14:13.4755045Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Playful treasure-planning theater scene: THREE HUMAN actors, two men wearing short WAIST LENGTH jeogori and loose ankle-tied baji with black gat hats, one in sage green and one ochre; a woman wearing ABOVE-BUST cropped cream jeogori and high full dusty red chima. All white collars and narrow upper-right chest goreum clearly visible. Gathered around SMALL LOW Korean soban, looking at blank parchment map marked ONLY with a simple red cross and dotted route line, NO text or symbols resembling letters. A closed traditional Korean wooden bandaji chest beside table. Full body with white beoseon and closed shoes. Plain Korean wooden stage, plain dark wood backdrop, half-open deep red curtains, warm cream spotlight. NO hanging lanterns. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-wealth-480.webp",
    "poster-wealth-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-wealth.png"
  },
  {
   "id": "poster-2027",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:37:01.929Z",
-  "prompt": "flat gouache theater poster illustration, a festive stage with a stylized red sheep mascot prop and two actors in Korean traditional-inspired costumes raising paper lanterns for a new season opening on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, red and gold accents, celebratory mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2006,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:15:31.8255330Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Festive Korean SEOLLAL scene on plain wooden Korean theater stage with dark wood backdrop and half-open deep red curtains. TWO HUMAN young actors wearing authentic short jeogori with narrow saekdong rainbow-striped sleeves, white dongjeong and visible narrow right-upper-chest goreum; man has waist-length cream jeogori and blue loose baji tied at ankles; woman has ABOVE BUST yellow cropped jeogori and high full red chima. They are kneeling facing each other, giving a modest respectful sebae bow, their human faces and chest knots visible. A small WHITE SHEEP MASCOT THEATER PROP sits to one side, visibly a wooden or stuffed toy, not a human actor. Yut wooden game sticks and embroidered blue and pink Korean bokjumeoni drawstring pouches on floor. White beoseon and closed shoes, single warm cream spotlight. No red envelopes, no lanterns, no text, no numerals, do NOT draw 2027. Keep complete scene within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-2027-480.webp",
    "poster-2027-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-2027.png"
  },
  {
   "id": "poster-child",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:36:30.240Z",
-  "prompt": "flat gouache theater poster illustration, a small child actor in a simple Korean traditional-inspired costume taking a first bow at center stage while an adult actor watches proudly from the wings on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, tender proud mood, clean empty corners, no seal stamp, no calligraphy, no artist signature, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2007,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:16:36.3007923Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Warm growing-up scene: HUMAN mother wearing pale sage ABOVE-BUST cropped jeogori with narrow pink chest goreum, white dongjeong and high full cream chima, kneeling with open arms as a very small HUMAN child in colorful saekdong hanbok takes first steps toward her. Child wears very short yellow jeogori with narrow rainbow-striped fitted sleeves, white collar and small chest goreum, loose blue baji with ankle ties, white beoseon and small closed gomusin. Mother also white socks and flower shoes, normal HUMAN friendly faces, heads turned three-quarter toward viewer so both chest details visible. Plain wooden Korean stage, plain dark wooden backdrop, half-open deep red curtains, single warm cream spotlight. No extra people, no props, no writing. Complete figures and mother skirt fit within frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-child-480.webp",
    "poster-child-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-child.png"
  },
  {
   "id": "poster-life",
   "kind": "poster",
-  "model": "@cf/black-forest-labs/flux-1-schnell",
+  "model": "OpenAI 이미지 생성(codex CLI image_generation)",
+  "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://bfl.ai/legal/terms-of-service",
-   "https://www.cloudflare.com/policies/terms/",
-   "https://huggingface.co/black-forest-labs/FLUX.1-schnell (Apache-2.0)"
+   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/usage-policies/"
   ],
-  "createdAt": "2026-11-18T08:37:06.011Z",
-  "prompt": "flat gouache theater poster illustration, a grand stage with a long scroll unrolled across the floor showing a winding path from childhood to old age, four large stage actors in Korean traditional-inspired costumes standing along the path in the foreground, a child, a young adult, a middle-aged adult and a white-haired elder on a wooden stage, single warm spotlight, half-open deep red curtains, cream paper texture, bold flat color blocks, epic storytelling mood, no text, no letters, no words, no signature, no watermark, no logo",
-  "seed": 2008,
-  "steps": 4,
-  "neuronsBefore": 5356.800094604492,
-  "neuronsAfter": 5356.800094604492,
+  "createdAt": "2026-11-19T07:17:38.4297912Z",
+  "prompt": "Create a single square illustration, illustration-story use case, a finished illustration asset for Korean theater website Palja Theater. Match the established warm cream paper background, flat matte gouache blocks, subtle paper grain, gently modeled friendly faces, muted theatrical colors, clean poster composition. All people are human Korean actors, never animal faces. Historically grounded Korean Joseon hanbok ONLY: clearly separate very short jeogori jacket and trousers or skirt. Women's jacket ends ABOVE THE BUST, full bell chima begins high beneath armpits, NO visible waistline. Men's jeogori ends at waist, voluminous baji with visible daenim ankle ties. Narrow fitted sleeves, clearly visible white dongjeong collar and long narrow goreum ribbon in a single loop knot on WEARER'S RIGHT upper chest (viewer left); NOT a waist belt. White beoseon socks and closed rounded boat-shaped gomusin or embroidered kkotsin. No kimono, yukata, haori, hanfu, long tunics, robes, martial arts uniforms, wide sleeves, broad sashes, sandals, Japanese swords, Chinese lanterns or red envelopes. No text whatsoever, no glyphs, letters, characters, signatures, stamps, seals, logos or watermark. Flat gouache theater poster illustration, simplified matte shapes and soft paper grain, square composition. Tender life journey scene: an elderly HUMAN Korean man with kind normal HUMAN face, small white beard, pale blue grey WAIST LENGTH SHORT jeogori with white dongjeong and dark blue narrow right upper chest goreum, cream LOOSE BAJI tied at ankles, wide brimmed black horsehair gat, holding hands with small HUMAN child in yellow short saekdong jeogori with rainbow fitted sleeves, visible white collar and chest goreum, blue loose baji tied at ankles. They walk hand in hand along a winding long muted RED PATH across a plain wooden Korean theater stage. Three-quarter frontal view so clothing construction and human faces clearly visible, white beoseon and closed boat-shaped gomusin. Plain dark wooden backdrop, half-open deep red curtains, single warm cream spotlight, gentle hopeful life journey mood. NO long robes, no wizard coat, no waist belt, no writing. Full bodies inside frame with breathing room.",
+  "style": "illustration",
   "files": [
    "poster-life-480.webp",
    "poster-life-960.webp"
-  ]
+  ],
+  "source": "art-src/codex/poster-life.png"
  }
 ]
