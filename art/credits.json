@@ -5,7 +5,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:22:28.5542872Z",
@@ -23,7 +23,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:01:42.8644863Z",
@@ -41,7 +41,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:19:59.6611185Z",
@@ -59,7 +59,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:00:52.7369672Z",
@@ -77,7 +77,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:02:10.4593452Z",
@@ -95,7 +95,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:02:31.9951480Z",
@@ -113,7 +113,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:20:18.9923101Z",
@@ -131,7 +131,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:09:33.1293755Z",
@@ -149,7 +149,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:03:14.0990916Z",
@@ -167,7 +167,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:03:42.0371056Z",
@@ -185,7 +185,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:04:38.8709039Z",
@@ -203,7 +203,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:04:07.7464874Z",
@@ -221,7 +221,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:05:25.6977773Z",
@@ -239,7 +239,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:21:09.6008286Z",
@@ -257,7 +257,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:05:52.4275555Z",
@@ -275,7 +275,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:06:34.8703302Z",
@@ -293,7 +293,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:07:01.5757454Z",
@@ -311,7 +311,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:07:47.9980849Z",
@@ -329,7 +329,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:08:16.8341264Z",
@@ -347,7 +347,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:21:35.8213694Z",
@@ -365,7 +365,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:10:19.8768440Z",
@@ -383,7 +383,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:22:55.3117552Z",
@@ -401,7 +401,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:09:03.6067667Z",
@@ -419,7 +419,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:10:52.8736780Z",
@@ -437,7 +437,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:23:37.8968434Z",
@@ -455,7 +455,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:12:13.0946784Z",
@@ -473,7 +473,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:11:47.6799460Z",
@@ -491,7 +491,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:13:20.3999384Z",
@@ -509,7 +509,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:14:13.4755045Z",
@@ -527,7 +527,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:15:31.8255330Z",
@@ -545,7 +545,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:16:36.3007923Z",
@@ -563,7 +563,7 @@
   "model": "OpenAI 이미지 생성(codex CLI image_generation)",
   "tool": "Codex 내장 image_gen.imagegen",
   "terms": [
-   "https://openai.com/policies/row-terms-of-use/ (콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
+   "https://openai.com/policies/terms-of-use/ (한국 등 유럽경제지역·스위스·영국 밖 이용자에게 적용, 발효 2026-01-01 · 콘텐츠의 소유권: 사용자가 출력을 소유하고 OpenAI 는 출력의 권리를 양도 · 콘텐츠 유사성: 출력이 독창적이지 않을 수 있음 · 금지: 출력을 사람이 만들었다고 하는 행위)",
    "https://openai.com/policies/usage-policies/"
   ],
   "createdAt": "2026-11-19T07:17:38.4297912Z",
